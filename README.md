@@ -1,17 +1,17 @@
-# aojtools
+# m1macs
 
-![aojtools](https://img.shields.io/pypi/v/aojtools.svg)
-![aojtools](https://img.shields.io/badge/wheel-yes-brightgreen.svg)
+![m1macs](https://img.shields.io/pypi/v/m1macs.svg)
+![m1macs](https://img.shields.io/badge/wheel-yes-brightgreen.svg)
 
 ## what's this?
 
-aojtoolsはAOJ(Aizu Online Judge http://judge.u-aizu.ac.jp/onlinejudge/ )のためのツールセットです。以下を含みます。
+m1macsはAOJ(Aizu Online Judge http://judge.u-aizu.ac.jp/onlinejudge/ )のためのツールセットです。以下を含みます。
 
 - APIへの透過的なアクセスライブラリ
 - サーバへのsubmit機能ライブラリ
 - コマンドラインスクリプト
 
-aojtools is a library and toolset for aoj, aizu online judge system (http://judge.u-aizu.ac.jp/onlinejudge/ )
+m1macs is a library and toolset for aoj, aizu online judge system (http://judge.u-aizu.ac.jp/onlinejudge/ )
 including
 
 - library for accessing API transparently
@@ -24,6 +24,6 @@ including
 
 ## install
 ```bash
-pip install aojtools
+pip install m1macs
 ```
 
