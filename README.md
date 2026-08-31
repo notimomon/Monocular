@@ -1,4 +1,4 @@
-# m1macs
+# doraemon_data
 
 ![m1macs](https://img.shields.io/pypi/v/m1macs.svg)
 ![m1macs](https://img.shields.io/badge/wheel-yes-brightgreen.svg)
